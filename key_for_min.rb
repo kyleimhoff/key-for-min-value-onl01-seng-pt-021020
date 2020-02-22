@@ -11,5 +11,6 @@ name_hash.each do |name, value|
   elsif value == 0 
   nil
 end
-key
+end
+key 
 end
