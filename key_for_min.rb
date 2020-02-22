@@ -7,5 +7,9 @@ key = nil
 name_hash.each do |name, value|
   if age < value
     age == value
-    
+    key == name
+  elsif value == 0 
+  nil
+end
+key
 end
