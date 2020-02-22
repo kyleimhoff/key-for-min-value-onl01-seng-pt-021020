@@ -8,8 +8,6 @@ name_hash.each do |name, value|
   if age == 0 || age > value
     age == value
     key == name
-  elsif value == 0 
-  nil
 end
 end
 key 
